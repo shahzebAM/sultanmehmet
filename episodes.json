@@ -31,7 +31,371 @@
             { 
                 "name": "15", 
                 "url": "https://play.niazitv.pk/play?data=MzAxOA==" 
+            },
+
+            {
+                "name": "16",
+                "url": "https://play.niazitv.pk/play?data=MzIwNw=="
+            },
+
+            {
+                "name": "17",
+                "url": "https://play.niazitv.pk/play?data=MzIyMg=="
+            },
+            
+            {
+                "name": "18",
+                "url": "https://play.niazitv.pk/play?data=MzIzMQ=="
+            },
+            
+            {
+                "name": "19",
+                "url": "https://play.niazitv.pk/play?data=MzIzOA=="
+            },
+
+            {
+                "name": "20",
+                "url": "https://play.niazitv.pk/play?data=MzI0Nw=="
+            },
+
+            {
+                "name": "21",
+                "url": "https://play.niazitv.pk/play?data=MzI1OQ=="
+            },
+
+            {
+                "name": "22",
+                "url": "https://play.niazitv.pk/play?data=MzI3MQ=="
+            },
+
+            {
+                "name": "23",
+                "url": "https://play.niazitv.pk/play?data=MzI3OQ=="
+            },
+
+            {
+                "name": "24",
+                "url": "https://play.niazitv.pk/play?data=MzI4OQ=="
+            },
+
+            {
+                "name": "25",
+                "url": "https://play.niazitv.pk/play?data=MzI5Ng=="
+            },
+
+            {
+                "name": "26",
+                "url": "https://play.niazitv.pk/play?data=MzMwMw=="
+            },
+
+            {
+                "name": "27",
+                "url": "https://play.niazitv.pk/play?data=MzM4OA=="
+            },
+
+            {
+                "name": "28",
+                "url": "https://play.niazitv.pk/play?data=MzQxNA=="
+            },
+
+            {
+                "name": "29",
+                "url": "https://play.niazitv.pk/play?data=MzQyMQ=="
+            },
+
+            {
+                "name": "30",
+                "url": "https://play.niazitv.pk/play?data=MzQyOA=="
+            },
+
+            {
+                "name": "31",
+                "url": "https://play.niazitv.pk/play?data=MzQzNQ=="
+            },
+
+            {
+                "name": "32",
+                "url": "https://play.niazitv.pk/play?data=MzQ3Ng=="
+            },
+
+            {
+                "name": "33",
+                "url": "https://play.niazitv.pk/play?data=MzQ4Ng=="
+            },
+
+            {
+                "name": "34",
+                "url": "https://play.niazitv.pk/play?data=MzQ5Mw=="
+            },
+
+            {
+                "name": "35",
+                "url": "https://play.niazitv.pk/play?data=MzUwMA=="
+            },
+
+            {
+                "name": "36",
+                "url": "https://play.niazitv.pk/play?data=MzUwNw=="
+            },
+
+            {
+                "name": "37",
+                "url": "https://play.niazitv.pk/play?data=MzU1Ng=="
+            },
+
+            {
+                "name": "38",
+                "url": "https://play.niazitv.pk/play?data=MzU2Mw=="
+            },
+
+            {
+                "name": "39",
+                "url": "https://play.niazitv.pk/play?data=MzU3MA=="
+            },
+
+            {
+                "name": "40",
+                "url": "https://play.niazitv.pk/play?data=MzU3OA=="
+            },
+
+            {
+                "name": "41",
+                "url": "https://play.niazitv.pk/play?data=MzYxMg=="
+            },
+
+            {
+                "name": "42",
+                "url": "https://play.niazitv.pk/play?data=MzYxOQ=="
+            },
+
+            {
+                "name": "43",
+                "url": "https://play.niazitv.pk/play?data=MzY1Ng=="
+            },
+
+            {
+                "name": "44",
+                "url": "https://play.niazitv.pk/play?data=MzY2Mw=="
+            },
+
+            {
+                "name": "45",
+                "url": "https://play.niazitv.pk/play?data=MzY3MA=="
+            },
+
+            {
+                "name": "46",
+                "url": "https://play.niazitv.pk/play?data=MzY4Mg=="
+            },
+
+            {
+                "name": "47",
+                "url": "https://play.niazitv.pk/play?data=MzY4Nw=="
+            },
+
+            {
+                "name": "48",
+                "url": "https://play.niazitv.pk/play?data=MzY5Mg=="
+            },
+
+            {
+                "name": "49",
+                "url": "https://play.niazitv.pk/play?data=MzY5Ng=="
+            },
+
+            {
+                "name": "50",
+                "url": "https://play.niazitv.pk/play?data=Mzg4NA=="
+            },
+
+            {
+                "name": "51",
+                "url": "https://play.niazitv.pk/play?data=Mzg4NQ=="
+            },
+
+            {
+                "name": "52",
+                "url": "https://play.niazitv.pk/play?data=Mzg4OA=="
+            },
+
+            {
+                "name": "53",
+                "url": "https://play.niazitv.pk/play?data=Mzg5MQ=="
+            },
+
+            {
+                "name": "54",
+                "url": "https://play.niazitv.pk/play?data=Mzg5NA=="
+            },
+
+            {
+                "name": "55",
+                "url": "https://play.niazitv.pk/play?data=Mzg5OQ=="
+            },
+
+            {
+                "name": "56",
+                "url": "https://play.niazitv.pk/play?data=MzkwMg=="
+            },
+
+            {
+                "name": "57",
+                "url": "https://play.niazitv.pk/play?data=MzkwNQ=="
+            },
+
+            {
+                "name": "58",
+                "url": "https://play.niazitv.pk/play?data=MzkxMA=="
+            },
+
+            {
+                "name": "59",
+                "url": "https://play.niazitv.pk/play?data=MzkxNg=="
+            },
+
+            {
+                "name": "60",
+                "url": "https://play.niazitv.pk/play?data=MzkyNA=="
+            },
+
+            {
+                "name": "61",
+                "url": "https://play.niazitv.pk/play?data=MzkyOQ=="
+            },
+
+            {
+                "name": "62",
+                "url": "https://play.niazitv.pk/play?data=MzkzNA=="
+            },
+
+            {
+                "name": "63",
+                "url": "https://play.niazitv.pk/play?data=MzkzOQ=="
+            },
+
+            {
+                "name": "64",
+                "url": "//ok.ru/videoembed/10775694936667?nochat=1"
             }
+
+            {
+                "name": "65",
+                "url": "https://play.niazitv.pk/play?data=Mzk0OA=="
+            },
+
+            {
+                "name": "66",
+                "url": "https://play.niazitv.pk/play?data=Mzk1MQ=="
+            },
+
+            {
+                "name": "67",
+                "url": "https://play.niazitv.pk/play?data=Mzk1Ng=="
+            },
+
+            {
+                "name": "68",
+                "url": "https://play.niazitv.pk/play?data=Mzk2MQ=="
+            },
+
+            {
+                "name": "69",
+                "url": "https://play.niazitv.pk/play?data=Mzk2Nw=="
+            },
+
+            {
+                "name": "70",
+                "url": "https://play.niazitv.pk/play?data=Mzk3NA=="
+            },
+
+            {
+                "name": "71",
+                "url": "https://play.niazitv.pk/play?data=Mzk4Nw=="
+            },
+
+            {
+                "name": "71",
+                "url": "https://play.niazitv.pk/play?data=Mzk4Nw=="
+            },
+
+            {
+                "name": "72",
+                "url": "https://play.niazitv.pk/play?data=Mzk5Mg=="
+            },
+
+            {
+                "name": "73",
+                "url": "https://play.niazitv.pk/play?data=Mzk5OA=="
+            },
+
+            {
+                "name": "74",
+                "url": "https://play.niazitv.pk/play?data=NDAwMw=="
+            },
+
+            {
+                "name": "75",
+                "url": "https://play.niazitv.pk/play?data=NDAwOA=="
+            },
+
+            {
+                "name": "76",
+                "url": "https://play.niazitv.pk/play?data=NDAxMw=="
+            },
+
+            {
+                "name": "77",
+                "url": "https://play.niazitv.pk/play?data=NDAxOA=="
+            },
+
+            {
+                "name": "78",
+                "url": "https://play.niazitv.pk/play?data=NDAyMA=="
+            },
+
+            {
+                "name": "79",
+                "url": "https://play.niazitv.pk/play?data=NDAyMw=="
+            },
+
+            {
+                "name": "80",
+                "url": "https://play.niazitv.pk/play?data=NDAyOA=="
+            },
+
+            {
+                "name": "81",
+                "url": "https://play.niazitv.pk/play?data=NDAzMw=="
+            },
+
+            {
+                "name": "82",
+                "url": "https://play.niazitv.pk/play?data=NDAzNg=="
+            },
+
+            {
+                "name": "83",
+                "url": "https://play.niazitv.pk/play?data=NDA0Mg=="
+            }
+
+
+
+
+
+            
+
+
+
+            
+
+
+            
+            
+            
+            
+
+
+
 
 
 
