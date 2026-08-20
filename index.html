@@ -41,7 +41,7 @@
             data.forEach((ep, i) => {
                 const div = document.createElement('div');
                 div.className = 'ep-item';
-                div.innerHTML = `Episode ${i+1}: ${ep.name}`;
+                
                 div.onclick = () => {
                     player.src = ep.url;
                     title.innerText = ep.name;
